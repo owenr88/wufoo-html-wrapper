@@ -1,0 +1,7 @@
+{
+    "name": "owenr88/wufoo-html-wrapper",
+    "description": "he Wufoo HTML wrapper is a PHP class that outputs Wufoo field HTML using their API and also manages submissions.",
+    "require": {
+        "php": ">=5.3.0",
+    }
+}
