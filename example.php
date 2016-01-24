@@ -28,7 +28,7 @@
 
 					$wrapper->enableBootstrap();
 
-					$wrapper->sendSubmission();
+					$submission_data = $wrapper->sendSubmission();
 
 					echo $wrapper->buildForm( 'z172ip8e07gen9n' );
 
