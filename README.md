@@ -2,7 +2,7 @@
 
 The Wufoo HTML wrapper is a PHP class that outputs Wufoo fields using their API. There is also a built in [Bootstrap](http://getbootstrap.com/) option to use those classes and styles.
 
-The class returns errors on incorrect submissions, shows required fields and even the instruction text. 
+The class returns errors on incorrect submissions, shows required fields and even the instruction text. It also supports multiple forms on one page. 
 
 You can view a list of fields supported by the class below. This is still a work in progress, so pull requests are massively loved (make sure to use the `dev` branch!)
 
@@ -48,6 +48,10 @@ This function accepts a form ID OR the form url slug. The ID can be found by cli
 **This function RETURNS the HTML. Make sure to echo it to the page.**
 
 `$wrapper->buildForm( 'z172ip8e07gen9n' );`
+
+or
+
+`$wrapper->buildForm( 'test-form' );`
 
 ### Submit form data
 
