@@ -43,7 +43,7 @@ Initialize the class on your page to start off the wrapper
 
 ### Build a form
 
-This function accepts a form ID OR the form url slug. The ID can be found by clicking 'Share Form' in Wufoo and taking the ID from the URL (i.e. 'z172ip8e07gen9n'), or the slug can be taken directly from the URL (i.e. 'test-form'). 
+This function accepts a form ID or the form url slug. The ID can be found by clicking 'Share Form' in Wufoo and taking the ID from the URL (i.e. 'z172ip8e07gen9n'), or the slug can be taken directly from the URL (i.e. 'test-form'). 
 
 **This function RETURNS the HTML. Make sure to echo it to the page.**
 
@@ -75,6 +75,9 @@ or
 **Other formats MIGHT be supported, but they just use their type (i.e. number, email, etc) as the input field's type attribute**
 
 ## Changelog
+
+### 1.0.1
+* Updated readme
 
 ### 1.0.0
 * The very first version! Includes the class, an example and all reqired documentation.
