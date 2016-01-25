@@ -76,7 +76,10 @@ or
 
 ## Changelog
 
-### 1.0.1
+### 1.0.3
+* Updated readme... urgh
+
+### 1.0.2
 * Updated composer file
 
 ### 1.0.1
