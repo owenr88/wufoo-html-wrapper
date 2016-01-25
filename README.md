@@ -76,6 +76,9 @@ or
 
 ## Changelog
 
+### 1.0.4
+* Composer formatting
+
 ### 1.0.3
 * Updated readme... urgh
 
