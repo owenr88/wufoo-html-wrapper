@@ -1,6 +1,15 @@
 {
     "name": "owenr88/wufoo-html-wrapper",
-    "description": "he Wufoo HTML wrapper is a PHP class that outputs Wufoo field HTML using their API and also manages submissions.",
+    "description": "Output Wufoo form HTML using the Wufoo API. Also manages answer validation and submissions.",
+    "keywords": ["wufoo","html","php"],
+    "authors": [
+        {
+            "name": "Owen Richards",
+            "email": "owen@biglemoncreative.co.uk",
+            "homepage": "http://www.biglemoncreative.co.uk",
+            "role": "Technical Director"
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
     }
