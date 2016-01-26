@@ -76,6 +76,9 @@ or
 
 ## Changelog
 
+### 1.0.5
+* Removed default API key and subdomain in the class
+
 ### 1.0.4
 * Composer formatting
 

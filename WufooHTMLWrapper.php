@@ -6,8 +6,8 @@ class WufooHTMLWrapper {
 	/**
 	 * Define your Wufoo API key and the subdomain of your wufoo account
 	 */
-	const WUFOO_API_KEY = 'BZUA-RE3F-VVC6-7PT4';
-	const WUFOO_SUBDOMAIN = 'biglemon';
+	const WUFOO_API_KEY = 'INSERT API KEY';
+	const WUFOO_SUBDOMAIN = 'INSERT SUBDOMAIN';
 
 
 	/**
